@@ -4,7 +4,8 @@ Dbian Technology.io
 # Claudio Fabian Stychnicki 
 # Data Scientist 
 
-As a Commercial/Market Intelligence/Competitive Intelligence Manager, I became a "Data Scientist-For-Busuness-Problems", are analytical skills, the ability to work in team environments and attention to detail. Coordination and management of teams, as well as hands-on with data science. 
+As a Commercial, Market Intelligence, Competitive and Intelligence Manager.
+I became a "Data Scientist-For-Busuness-Problems", are analytical skills, the ability to work in team environments and attention to detail. Coordination and management of teams, as well as hands-on with data science. 
 Having spent the last few years applying Machine Learning, Deep Learning with real business problems in different segments of the Brazilian market. 
 I developed critical thinking and problem solving skills, based on over 35 years modeling processes and improving business rules for selling ERP/SAAS software & B.I. Consultant for commercial and strategic market planning and process modeling and implementation of high performance sales teams as well as monitoring and training.
 
