@@ -25,6 +25,8 @@ data, analysis and statistics, as well as Python programming and its numerous li
 I believe that the greatest contribution I can make will be the understanding of business problems, with the delivery of non-obvious solutions, making companies see further and anticipate possible risk factors in order to predict, prevent and mitigate any non-standard deviation.
 
 **Background in:** Python, Machine Learning, Deep Learning, Space Operations and Mathematical Optimization through data and analysis in statistics..
+* Virtualização de ambientes e Linux
+* Streamlit e Flask
 
 **Links:**
 
