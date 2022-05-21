@@ -22,3 +22,16 @@ I believe that the biggest contribution I can make will be the understanding of 
 My credentials include a Master of Science in
 data, analysis and statistics, as well as Python programming and its numerous libraries and tools for Data Science.
 I believe that the greatest contribution I can make will be the understanding of business problems, with the delivery of non-obvious solutions, making companies see further and anticipate possible risk factors in order to predict, prevent and mitigate any non-standard deviation.
+
+**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+
+**Links:**
+
+* [LinkedIn](https://www.linkedin.com/in/claudio-fabian-stychnicki-28a17155)
+* [Medium](https://www.medium.com)
+
+
+## Projetos:
+Veja os tutoriais e projetos no momento da publicação:
+
+
