@@ -26,6 +26,7 @@ I believe that the greatest contribution I can make will be the understanding of
 
 **Background in:** Python, Machine Learning, Deep Learning, Space Operations and Mathematical Optimization through data and analysis in statistics..
 * Virtualização de ambientes e Linux
+*** Front End & Back End
 * Streamlit e Flask
 
 **Links:**
