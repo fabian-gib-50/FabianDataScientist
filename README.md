@@ -20,6 +20,9 @@ My credentials include a Master of Science in
 data, analysis and statistics, as well as Python programming and its numerous libraries and tools for Data Science.
 I believe that the greatest contribution I can make will be the understanding of business problems, with the delivery of non-obvious solutions, making companies see further and anticipate possible risk factors in order to predict, prevent and mitigate any non-standard deviation.
 
+**Credêntials for Busuness
+* Soft skills (Soft skills (concepts, methodologies, business rules and planning/understanding and analysis of requirements/problem/problem solving)
+
 **Background in Python & R:
 Space Operations and Mathematical Optimization through data and analysis in statistics..
 * Crisp Dm
