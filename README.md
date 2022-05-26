@@ -16,19 +16,23 @@ I developed critical thinking and problem solving skills, based on over 35 years
 * IBP - Integrated Business Planning 
 * S&OP - Sales and Operations Planning (Planejamento de Vendas e Operações)
 
-My credentials include a Master of Science in data, analysis and statistics, as well as Python programming and its numerous libraries and tools for Data Science.
-I believe that the biggest contribution I can make will be the understanding of the business problems, with the delivery of non-obvious solutions, making companies see further and anticipate possible risk factors to predict, prevent and mitigate any non-standard deviation.
-
-
 My credentials include a Master of Science in
 data, analysis and statistics, as well as Python programming and its numerous libraries and tools for Data Science.
 I believe that the greatest contribution I can make will be the understanding of business problems, with the delivery of non-obvious solutions, making companies see further and anticipate possible risk factors in order to predict, prevent and mitigate any non-standard deviation.
 
-**Background in:** Python, Machine Learning, Deep Learning, Space Operations and Mathematical Optimization through data and analysis in statistics..
+**Background in Python & R:
+Space Operations and Mathematical Optimization through data and analysis in statistics..
+* Crisp Dm
+* Machine Learning
+* Deep Learning
+* Projects
+* Production
+* Deployment
+
+**Front End & Back End:
+* Streamlit
+* Flask
 * Virtualização de ambientes e Linux
-* 
-***Front End & Back End:**
-* Streamlit e Flask
 
 **Links:**
 
